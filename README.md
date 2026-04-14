@@ -21,3 +21,4 @@ The goal of this study is to identify discrepancies between textual sentiment an
 
 ---
 *Developed as part of a University Thesis. For inquiries regarding the methodology, please contact the repository owner.*
+A representative sample of the processed data. The full dataset used in this thesis is available upon request for academic and research purposes only.
